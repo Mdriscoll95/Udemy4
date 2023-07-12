@@ -1,0 +1,15 @@
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/bin/Debug/net7.0/Udemy4
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/bin/Debug/net7.0/Udemy4.deps.json
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/bin/Debug/net7.0/Udemy4.runtimeconfig.json
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/bin/Debug/net7.0/Udemy4.dll
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/bin/Debug/net7.0/Udemy4.pdb
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/obj/Debug/net7.0/Udemy4.csproj.AssemblyReference.cache
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/obj/Debug/net7.0/Udemy4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/obj/Debug/net7.0/Udemy4.AssemblyInfoInputs.cache
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/obj/Debug/net7.0/Udemy4.AssemblyInfo.cs
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/obj/Debug/net7.0/Udemy4.csproj.CoreCompileInputs.cache
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/obj/Debug/net7.0/Udemy4.dll
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/obj/Debug/net7.0/refint/Udemy4.dll
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/obj/Debug/net7.0/Udemy4.pdb
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/obj/Debug/net7.0/Udemy4.genruntimeconfig.cache
+/Users/michaeldriscoll/Desktop/repos/Udemy4/Udemy4/obj/Debug/net7.0/ref/Udemy4.dll
